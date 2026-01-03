@@ -20,4 +20,4 @@ Este projeto foi construído utilizando as tecnologias mais modernas do ecossist
 * 🌑 **Tema Dark/Light:** Base de estilos preparada para temas (configurado via CSS variables).
 * ✉️ **Formulário Funcional:** Envio de e-mails reais através da integração com EmailJS.
 * ⚡ **Alta Performance:** Otimizado com as melhores práticas do Vite e React.
-.
+g
