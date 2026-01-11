@@ -1,7 +1,7 @@
 import { Project } from '../types';
-import figmaV from '../../public/image/figmaVivo.png';  
-import vivaOn from '../../public/image/site.png';
-import advocacia from '../../public/image/advocacia.png';
+import figmaV from '../assets/images/figmaVivo.png';  
+import vivaOn from '../assets/images/Site.png';
+import advocacia from '../assets/images/advocacia.png';
 
 
 export const projects: Project[] = [
